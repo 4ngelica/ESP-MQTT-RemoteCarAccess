@@ -11,9 +11,10 @@
 
  <p align="center">
     <a href="#RemoteCarAccess_about">Sobre</a> • 
-    <a href="#RemoteCarAccess_techs">Tecnologias e Ferramentas</a> • 
+    <a href="#RemoteCarAccess_techs">Componentes</a> • 
     <a href="#RemoteCarAccess_install">Instalação</a> • 
     <a href="#RemoteCarAccess_ref">Referências</a> •
+    <a href="#RemoteCarAccess_group">Integrantes do grupo</a> •
     <h3 align="center">REMOTE CAR ACCESS</h3>
 
   <p align="center">
@@ -27,13 +28,31 @@
    Quando o carro mestre se movimenta, o carro replicador copia seus movimentos. Quando a distância até um obstáculo medida pelo sensor é menor do que 40 centímetros, o movimento do carro mestre é interrompido, e consequentemente, o carro replicador também pára. Ainda, o carro replicador pode se movimentar independentemente. 
 </p>
 
-## :pushpin: Tecnologias e Ferramentas
-<ul id="RemoteCarAccess_techs">
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript</li> 
-    <li>MQTT</li> 
-</ul>  
+## :pushpin: Componentes
+<div id="RemoteCarAccess_techs">
+ Projeto mecânico:
+<ul>
+    <li>2 chassis</li>
+    <li>4 rodas de Borracha</li> 
+    <li>2 rodas auxiliares </li> 
+    <li>4 discos de Encoder </li> 
+    <li>2 suportes para 4 Pilhas</li>
+    <li>2 jogos de parafusos e espaçadores para roda auxiliar</li>
+</ul> 
+ Projeto eletro-eletrônico:
+<ul>
+    <li>4 motores DC (3~6v)</li>
+    <li>2 chaves On/Off</li> 
+    <li>1 sensor ultrassônico HC-SR04</li>
+    <li>NodeMCU V3 - ESP8266</li>
+    <li>Módulo Driver Ponte H - L298N</li>
+    <li>Jumpers</li>
+    <li>Protoboard 170 Pontos</li>
+    <li>Powerbank ou Bateria 9V</li>
+    <li>4 pilhas AA</li>
+    <li>Jumpers</li>
+</ul> 
+</div>
 
 ## :pushpin: Instalação
 <p id="RemoteCarAccess_install">
@@ -54,6 +73,17 @@ Se você deseja reproduzir o projeto completo, acesse a seção de instalação 
  • Repositório: <a href="https://github.com/filipeflop/Interface-Web-MQTT">Interface-Web-MQTT</a>
 
 </p>
+
+## :pushpin: Integrantes do grupo
+<ul id="RemoteCarAccess_group">
+    <li>Alex José Arantes</li>
+    <li>Alexsander dos Santos Sena</li>
+    <li>Angélica Batassim Nunes</li> 
+    <li>Ariel Alejandro Arce Maciel</li>
+    <li>Bruno Moneda Alberto dos Santos</li>
+    <li>Mayara Vivian dos Prazeres Cruz</li> 
+    <li>Thais Mafra Navarro</li> 
+</ul>  
 
 <footer>
     <hr></hr>
