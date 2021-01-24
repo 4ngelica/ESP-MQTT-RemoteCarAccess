@@ -57,15 +57,9 @@
 </div>
 
 ## :pushpin: Desenhos esquemáticos
-<p id="RemoteCarAccess_draw">Desenhos esquemáticos dos projetos eletro-eletrônico e mecânico.</p>
+<p id="RemoteCarAccess_draw">Acesse os desenhos esquemáticos dos projetos eletro-eletrônico e mecânico na pasta <a href="">Desenhos</a>.</p>
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/47900225/105635815-cbcd9600-5e43-11eb-9c04-d065868fb206.png">
-
-  <img  src="https://user-images.githubusercontent.com/47900225/105636334-af7f2880-5e46-11eb-9277-45703217a426.png">
-Desenho esquemático do circuito eletrônico do carro mestre. 
- 
- <img  src="https://user-images.githubusercontent.com/47900225/105636332-aee69200-5e46-11eb-87ab-757fd8d5dbf8.png">
-Desenho esquemático do circuito eletrônico do carro replicador.
 </p>
 
 
