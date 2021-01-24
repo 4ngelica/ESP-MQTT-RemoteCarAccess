@@ -1,12 +1,5 @@
- <h3 align="center">REMOTE CAR ACCESS</h3>
-
-  <p align="center">
-   :man_technologist: :wrench: EM CONSTRUÇÃO :wrench: :woman_technologist: 
-  </p>
-
-
 <p align="center">
-  <img  src="">
+  <img  src="https://user-images.githubusercontent.com/47900225/105637590-1a336280-5e4d-11eb-897f-cde0fb915437.png">
 </p>
 
  <p align="center">
@@ -83,7 +76,7 @@
 • Se você já tem acesso a interface e a conectou com o servidor, já está pronto para enviar comandos aos carros. Os botões do Joycon Azul controlam o carro mestre e os botões do Joycon vermelho controlam o carro replicador.
 
 ## :pushpin: Demonstração
-<p id="RemoteCarAccess_demo">demooooooooo</p>
+<p id="RemoteCarAccess_demo">Acesse o vídeo demonstrativo do projeto <a href="https://youtu.be/VFwJNbv6L60">aqui</a>.  </p>
 
 
 ## :pushpin: Referências
