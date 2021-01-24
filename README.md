@@ -12,9 +12,11 @@
  <p align="center">
     <a href="#RemoteCarAccess_about">Sobre</a> • 
     <a href="#RemoteCarAccess_techs">Componentes</a> • 
+    <a href="#RemoteCarAccess_draw">Desenhos esquemáticos</a> •
     <a href="#RemoteCarAccess_install">Instalação</a> • 
+    <a href="#RemoteCarAccess_install">Demonstração</a> • 
     <a href="#RemoteCarAccess_ref">Referências</a> •
-    <a href="#RemoteCarAccess_group">Integrantes do grupo</a> •
+    <a href="#RemoteCarAccess_group">Integrantes do grupo</a>
     <h3 align="center">REMOTE CAR ACCESS</h3>
 
   <p align="center">
@@ -54,6 +56,21 @@
 </ul> 
 </div>
 
+## :pushpin: Desenhos esquemáticos
+<p id="RemoteCarAccess_draw">desenhossssssss</p>
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/47900225/105635815-cbcd9600-5e43-11eb-9c04-d065868fb206.png">
+Projeto mecânico do carro mestre. Acesse mais imagens na pasta X.
+ 
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/47900225/98309497-61762980-1fa9-11eb-90ea-f85c8bb799fe.png">
+Desenho esquemático do circuito eletrônico do carro mestre. 
+ 
+ <img  src="https://user-images.githubusercontent.com/47900225/98309497-61762980-1fa9-11eb-90ea-f85c8bb799fe.png">
+Desenho esquemático do circuito eletrônico do carro replicador.
+</p>
+
+
 ## :pushpin: Instalação
 <p id="RemoteCarAccess_install">
 
@@ -70,6 +87,11 @@
 • Carregue os sketches em cada um dos carros. Você pode verificar se a conexão ocorreu com sucesso abrindo a <b>porta serial 115200</b>.
 
 • Nesse ponto, a configuração dos carros está finalizada. Para acessar a interface de controle, siga as instruções do repositório <a href="https://www.github.com/4ngelica/INTERFACE-RemoteCarAccess ">INTERFACE-RemoteCarAccess</a>.
+
+• Se você já tem acesso a interface e a conectou com o servidor, já está pronto para enviar comandos aos carros. Os botões do Joycon Azul controlam o carro mestre e os botões do Joycon vermelho controlam o carro replicador.
+
+## :pushpin: Demonstração
+<p id="RemoteCarAccess_demo">demooooooooo</p>
 
 
 ## :pushpin: Referências
