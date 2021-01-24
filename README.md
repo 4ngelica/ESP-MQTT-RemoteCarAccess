@@ -60,9 +60,7 @@
 <p id="RemoteCarAccess_draw">desenhossssssss</p>
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/47900225/105635815-cbcd9600-5e43-11eb-9c04-d065868fb206.png">
-Projeto mecânico do carro mestre. Acesse mais imagens na pasta X.
- 
-<p align="center">
+
   <img  src="https://user-images.githubusercontent.com/47900225/98309497-61762980-1fa9-11eb-90ea-f85c8bb799fe.png">
 Desenho esquemático do circuito eletrônico do carro mestre. 
  
