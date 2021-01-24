@@ -50,7 +50,7 @@
 </div>
 
 ## :pushpin: Desenhos esquemáticos
-<p id="RemoteCarAccess_draw">Acesse os desenhos esquemáticos dos projetos eletro-eletrônico e mecânico na pasta <a href="">Desenhos</a>.</p>
+<p id="RemoteCarAccess_draw">Acesse os desenhos esquemáticos dos projetos eletro-eletrônico e mecânico na pasta <a href="https://github.com/4ngelica/ESP-MQTT-RemoteCarAccess/tree/master/Desenhos">Desenhos</a>.</p>
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/47900225/105635815-cbcd9600-5e43-11eb-9c04-d065868fb206.png">
 </p>
